@@ -1,0 +1,19 @@
+body { 
+    background: url(documents/bobBackground.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	font-size: 30px;
+}
+p, li, ul, a {
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-size: 16px;
+}
