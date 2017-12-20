@@ -9,11 +9,11 @@ body {
 }
 h1 {
 	font-family: 'Open Sans', sans-serif;
-	color: white;
+	color: #e3f1f8;
 	font-size: 30px;
 }
 p, li, ul, a {
 	font-family: 'Roboto', sans-serif;
-	color: white;
+	color: #e3f1f8;
 	font-size: 16px;
 }
