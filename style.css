@@ -1,22 +1,30 @@
 body { 
-    background: url(documents/bobBackground.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+  /*background: url(documents/bobBackground.jpg) no-repeat center center fixed;*/
+  background-color: #ececec;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 p, li, ul, a {
-	font-family: 'Roboto', sans-serif;
-	color: #e3f1f8;
-	font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
 }
 .navbar-brand {
   font-family: 'Roboto', sans-serif;
   font-size: 22px;
 }
-h2 {
- font-family: 'Roboto', sans-serif;
- color: #e3f1f8;
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 28px;
 }
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+}
+/*.img-responsive {
+  outline: 2px solid black;
+}*/
