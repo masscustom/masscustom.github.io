@@ -8,6 +8,7 @@
   <script src="https://use.fontawesome.com/b4fd749d15.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="../style.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   <title>Hand Guards</title>
 </head>
 <body>
@@ -57,6 +58,5 @@
       <p>Concept Explanation</p>
       <p>Equipment setup and configuration in action-sports present unique ergonomic needs for each athlete. Customizable products provide new opportunities to address each athlete’s unique performance requirements and provide a platform to explore custom design motifs. The brush guards above demonstrate potential product design flexibility enabled by Additive Manufacturing.</p>
     </div>
-      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </body>
 </html>
