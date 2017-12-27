@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <script src="https://use.fontawesome.com/b4fd749d15.js"></script>
@@ -54,11 +54,11 @@
     <div class="row">
       <div class="col-lg-6">
         <p>Original Customer Design Sketch</p>
-        <img class="img-responsive" src="../documents/waspKiller9000Concept1.png" alt="Generic placeholder image" >
+        <img src="../documents/waspKiller9000Concept1.png" class="img-responsive" alt="Generic placeholder image">
       </div>
       <div class="col-lg-6">
         <p>Prototype Design Revision X1</p>
-        <img class="img-responsive" src="../documents/waspKiller9000Concept2.png" alt="Generic placeholder image">
+        <img src="../documents/waspKiller9000Concept2.png" class="img-responsive" alt="Generic placeholder image"> 
       </div>
     </div>
     <p>Customer requested a threaded cage for use with bug-spray cans. The threaded cage body attached to a broom handle and used a levered pull-string. Consumers would use the product to  to spray and kill insects at an increased stand-off distance. Concepting accelerated by optimizing performance of sub-components that could be integrated into a completed X1 proof-of-concept.
